@@ -9,7 +9,7 @@ Kishor-dl is a downloader script for kishorkantha magazine. It uses web scrappin
 
 Kishor-dl requires Python3 to run. Install the package by running this on your terminal:
 ```sh
-pip install coursera-dl
+pip install kishor-dl
 ```
 Then use the below command to import and run the downloader:
 ```sh

@@ -85,7 +85,7 @@ def download_pdf(complete_list):
     print('Download Complete!')
 
 
-def kishor():
+def start():
     # scrap website and get web pages
     web_pages = fetch_all_pages(web)
 
