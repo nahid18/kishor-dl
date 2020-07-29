@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 with open('requirements.txt') as f: 
     requirements = f.readlines() 
 
-long_description = 'Kishor-dl is a downloader script for kishorkantha magazine. It uses web scrapping to download more than 150 volumes of the magazine.' 
+long_description = 'Kishor-dl is a python downloader script for kishorkantha magazine. It uses web scrapping to download more than 150 volumes of the magazine.' 
 
 setup(name='kishor-dl',
       version='0.2',
