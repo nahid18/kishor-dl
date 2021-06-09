@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/nahid18/kishor-dl.svg?branch=master)](https://travis-ci.com/nahid18/kishor-dl.svg?branch=master)	
 
-Kishor-dl is a python downloader script for kishorkantha magazine. It uses web scrapping to download more than 150 volumes of magazine.
+Kishor-dl is a python downloader script for free, open-source kishorkantha magazine. It uses web scrapping to download more than 150 volumes of magazine.
 
 Installation
 ----
